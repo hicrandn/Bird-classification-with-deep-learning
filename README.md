@@ -1,4 +1,5 @@
 Bird Species Classification Using Deep Learning
+
 Birds exhibit a wide range of sizes, shapes, colors, and orientations. Classifying bird species from images is particularly challenging due to the high diversity of colors and patterns, as well as the visual similarities between species. This study applied deep learning models for bird species classification and compared their performance using the BIRDS 525 SPECIES dataset.
 
 Objective
